@@ -32,3 +32,5 @@ function Send(address receiver,uint amount) public {
 
 
 }
+
+
